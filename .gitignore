@@ -5,7 +5,8 @@
 /tmp
 
 # dependencies
-/node_modules
+/node_modules/*
+!/node_modules/ember-cli-toggle
 /bower_components
 
 # misc
